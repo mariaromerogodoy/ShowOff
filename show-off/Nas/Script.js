@@ -19,6 +19,8 @@ document.getElementById('C').addEventListener('click', function() {
     toggleMessage('WrongHiddenD');
   });
 
+  
+
   const playPauseBtn = document.getElementById('playPauseBtn');
 const audio = document.getElementById('my-audio');
 
